@@ -1,6 +1,6 @@
 # Nvim
 
-My neovim configuration
+cehnhy's neovim config
 
 ## Install
 
